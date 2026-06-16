@@ -14,10 +14,14 @@ from idea to a ready-to-publish cut.
 - SEO studio: titles, descriptions, tags, keyword ideas, video analysis
 - Community replies: YouTube · Instagram · Facebook
 - Marketplace product-card generator
-- Ad Studio: short ad videos for businesses + lead finder
+- Ad Studio: motion-design ad videos for businesses — dynamic multi-shot direction,
+  strong branded end-cards, an appetizing photoreal look for food & drink,
+  plus a lead finder for outreach
+- Cinematic shot direction for storytelling content across multiple genres
 - Multi-user mode with project ownership
 
 ## In progress / planned
 - Approval gates in the pipeline UI
 - Style-reference gallery
+- English-source internationalization (EN / RU, more languages)
 - Server deployment

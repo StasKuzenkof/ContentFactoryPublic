@@ -12,7 +12,8 @@ _Updated: 2026-06-16_
 - [x] SEO studio
 - [x] Community replies (YouTube / Instagram / Facebook)
 - [x] Marketplace product cards
-- [x] Ad Studio (business ad videos + leads)
+- [x] Ad Studio — motion-design business ad videos + lead finder
+- [x] Cinematic shot direction for content (multiple genres)
 - [x] Multi-user mode
 
 ## 🟡 In progress
@@ -20,6 +21,7 @@ _Updated: 2026-06-16_
 - [ ] Style-reference gallery
 
 ## ⚪ Planned
+- [ ] English-source internationalization (EN / RU, more languages)
 - [ ] Server deployment
 - [ ] Ad Studio expansion
 
