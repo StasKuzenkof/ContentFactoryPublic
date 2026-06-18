@@ -19,9 +19,12 @@ from idea to a ready-to-publish cut.
   plus a lead finder for outreach
 - Cinematic shot direction for storytelling content across multiple genres
 - Multi-user mode with project ownership
+- English / Russian interface (English-source)
 
 ## In progress / planned
+- Ongoing security hardening
+- In-app announcement & insight pop-ups
 - Approval gates in the pipeline UI
 - Style-reference gallery
-- English-source internationalization (EN / RU, more languages)
+- More interface languages
 - Server deployment

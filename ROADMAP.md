@@ -2,7 +2,7 @@
 
 Public progress: implemented and planned capabilities. No implementation details.
 
-_Updated: 2026-06-16_
+_Updated: 2026-06-18_
 
 ## ✅ Implemented
 - [x] Turn-key video pipeline (end-to-end)
@@ -15,13 +15,16 @@ _Updated: 2026-06-16_
 - [x] Ad Studio — motion-design business ad videos + lead finder
 - [x] Cinematic shot direction for content (multiple genres)
 - [x] Multi-user mode
+- [x] English / Russian interface (English-source)
 
 ## 🟡 In progress
+- [ ] Security hardening (ongoing)
 - [ ] Approval gates in the pipeline UI
 - [ ] Style-reference gallery
 
 ## ⚪ Planned
-- [ ] English-source internationalization (EN / RU, more languages)
+- [ ] In-app announcement & insight pop-ups
+- [ ] More interface languages
 - [ ] Server deployment
 - [ ] Ad Studio expansion
 
